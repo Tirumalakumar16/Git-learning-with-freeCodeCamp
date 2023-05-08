@@ -8,4 +8,14 @@ public class Add {
         z=x+y;
         System.out.println(z);
     }
+    void sub(){
+        System.out.println(y-x);
+    }
+
+    void mul(){
+        System.out.println(x*y);
+    }
+    void div(){
+        System.out.println(y/x);
+    }
 }
